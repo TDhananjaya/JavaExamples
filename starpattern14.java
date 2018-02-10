@@ -1,4 +1,4 @@
-public class starpattern13{
+public class starpattern14{
 
     public static void main(String args[]) {
           for (;;) {
