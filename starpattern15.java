@@ -4,7 +4,7 @@ public class starpattern15{
          for (;;) {
 
             int arr[] = new int[10];
-            int i, num, n, c = 0, pos = 0;
+            int i, num, n, c = 0, pos = 0; //pos=possition
             Scanner scan = new Scanner(System.in);
 
             System.out.print("Enter Array Size : ");
@@ -15,7 +15,7 @@ public class starpattern15{
                 arr[i] = scan.nextInt();
             }
 
-            System.out.print("Enter the Number to be Search...");
+            System.out.print("Enter the Number to be Search : ");
             num = scan.nextInt();
 
             for (i = 0; i < n; i++) {
