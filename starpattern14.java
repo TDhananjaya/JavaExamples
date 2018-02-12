@@ -29,7 +29,7 @@ public class starpattern14{
             System.out.println("");
             if (Exit.equalsIgnoreCase("Y")) {
 
-                System.out.println("Thank You for using Programme.....");
+                System.out.println("Thank You for using Programme....! ");
                 break;
             } else if (Exit.equalsIgnoreCase("N")) {
                 continue;
